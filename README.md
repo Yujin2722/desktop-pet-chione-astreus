@@ -1,5 +1,5 @@
 <h1>
-  <img src="https://raw.githubusercontent.com/Yujin2722/desktop-pet-chione-astreus/main/icon.png" width="50" style="vertical-align: middle; margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/Yujin2722/desktop-pet-chione-astreus/main/icon.png" width="60" style="vertical-align: middle; margin-right: 10px;" />
   Desktop Pet — Chione & Astreus
 </h1>
 
