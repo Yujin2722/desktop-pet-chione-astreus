@@ -1,4 +1,4 @@
-# <img src="icon.png" alt="Desktop Pet Icon" width="40" align="center" /> Desktop Pet — Chione & Astreus
+<img src="icon.png" alt="Desktop Pet Icon" width="40" align="center" /> Desktop Pet — Chione & Astreus
 Desktop Pet is a pixel-art companion that lives on your desktop.
 It features two characters — Chione and Astreus — with charming animations that bring your screen to life.
 More animations and interactions are coming soon!
